@@ -10,7 +10,7 @@ Turkish English dictionary api made with python Flask
 
 ## Tutorial
 
-
+https://github.com/yesilOguz/GiveMeLetter-FlaskApi/assets/75690912/16930ce1-fc1f-4e64-8af7-b962108cc20a
 
 ## Some issues
 
